@@ -1,1 +1,2 @@
 # odin-recipes
+I decided I wanted to start really learning how to code. This is the first project for The Odin Project. I'll be demonstrating the skills I have learned so far, like the basic HTML structure, adding headings, images, links, and paragraphs.
